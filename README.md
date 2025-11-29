@@ -21,5 +21,5 @@
 시스템의 상태와 프로세스들을 **실시간으로 모니터링**하는 명령어입니다.
 
 
-![image]()
+<img width="1037" height="236" alt="top사진" src="https://github.com/user-attachments/assets/5c222739-c953-4411-b6a1-e5abc11b46e7" />
 
