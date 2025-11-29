@@ -23,3 +23,17 @@
 
 <img width="1037" height="236" alt="top사진" src="https://github.com/user-attachments/assets/5c222739-c953-4411-b6a1-e5abc11b46e7" />
 
+
+## 사용방법
+$ top
+
+
+# 설명
+| 명령어 | 설명 | 비고 |
+| :--- | :--- | :--- |
+| PID | 프로세스 ID | |
+| USER | 프로세스 소유자 | |
+| %CPU | CPU 사용률 | |
+| 'q' | 나가기 | 명령어 실행 시 | 
+
+### 2. ps (Process Status)
